@@ -1,0 +1,7 @@
+function: (i+z)/(i-z)
+name: bild3_mobius
+size: 512 512
+bounds: (-4,-4) (4,4)
+abs style: 2
+color: on
+arg count: 8

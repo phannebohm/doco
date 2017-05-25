@@ -1,0 +1,7 @@
+function: (z^2-1)*(z-2-i)^2/(z^2*(z^2+2+2*i))
+name: bild4_chaos
+size: 512 512
+bounds: (-4,-4) (4,4)
+abs style: 0
+color: on
+arg count: 0

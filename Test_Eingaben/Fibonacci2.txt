@@ -1,0 +1,6 @@
+function: ( ((1+sqrt 5)/2)^z -((1-sqrt 5)/2)^z )/sqrt 5
+name: fibonacci2
+arg count: 8
+abs style: 2
+bounds: (-1,-2) (3,2)
+size: 1024 1024

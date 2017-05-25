@@ -1,0 +1,8 @@
+function: exp(i*pi/6)*pe z
+name: bild5_weierstrass
+bounds: (-1.5,-1.5) (1.5,1.5)
+size: 512 512
+abs style: 2
+color: off
+arg count: 3
+

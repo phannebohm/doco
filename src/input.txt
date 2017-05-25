@@ -1,0 +1,4 @@
+function: z+i/(z^2-3*i)*pi
+name: bild
+bounds: (-3,-3) (3,3)
+size: 128 128

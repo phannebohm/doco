@@ -1,0 +1,4 @@
+function: z
+name: bild1_id
+arg count: 6
+abs style: 2

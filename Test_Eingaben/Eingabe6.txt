@@ -1,0 +1,6 @@
+function: zeta z
+name: bild6_Riemann_zeta
+bounds: (-10,-40) (10,40)
+size: 256 1024
+abs style: 2
+arg count: 8

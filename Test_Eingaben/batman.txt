@@ -1,0 +1,8 @@
+name: batman
+function: (z + (i)/z)/2
+abs style: 2
+abs int: 1.5
+arg int: 0.8
+size: 512 512
+bounds: (-2,-2) (2,2)
+iterations: 3

@@ -1,0 +1,6 @@
+name: nonconf
+size: 512 512
+bounds: (-4,-4) (4,4)
+abs style: 2
+arg count: 6
+function: conj(z)+z^2

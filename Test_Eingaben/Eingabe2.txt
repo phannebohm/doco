@@ -1,0 +1,8 @@
+function: sin(z)
+name: bild2_sinus
+bounds: (-3.2,-3.2) (3.2,3.2)
+color: on
+
+abs style: 2
+arg count: 6
+size: 410 410
